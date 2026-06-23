@@ -1,0 +1,51 @@
+ItemID,ProductName,Category,UnitPrice,StockQuantity,Warehouse,Supplier
+1001,Wireless Mouse,Electronics,799,120,Kochi,TechNova
+1002,Mechanical Keyboard,Electronics,2499,85,Kochi,TechNova
+1003,LED Desk Lamp,Home,1299,60,Chennai,BrightLite
+1004,Office Chair,Furniture,6999,25,Bangalore,FurniPro
+1005,Standing Desk,Furniture,14999,12,Bangalore,FurniPro
+1006,Water Bottle,Lifestyle,499,200,Kochi,HydraGoods
+1007,Travel Backpack,Lifestyle,1899,75,Delhi,UrbanTrail
+1008,Bluetooth Speaker,Electronics,3499,40,Mumbai,SoundSphere
+1009,Power Bank,Electronics,1499,110,Mumbai,ChargeMax
+1010,Monitor 24inch,Electronics,10999,18,Chennai,ViewTech
+1011,Notebook Pack,Stationery,299,350,Delhi,PaperNest
+1012,Gel Pen Set,Stationery,199,500,Delhi,PaperNest
+1013,Coffee Mug,Home,349,140,Kochi,HomeCraft
+1014,Whiteboard,Office,2599,30,Bangalore,OfficeHub
+1015,Projector Screen,Office,7999,10,Chennai,OfficeHub
+1016,USB Hub,Electronics,899,95,Mumbai,TechNova
+1017,External HDD,Electronics,5499,22,Delhi,DataStore
+1018,Webcam HD,Electronics,2299,48,Kochi,ViewTech
+1019,Router AC1200,Electronics,2899,38,Mumbai,NetWave
+1020,Printer Ink,Office,999,125,Chennai,OfficeHub
+1021,Filing Cabinet,Furniture,8999,8,Bangalore,FurniPro
+1022,Desk Organizer,Office,599,130,Delhi,OfficeHub
+1023,Mouse Pad,Electronics,249,220,Kochi,TechNova
+1024,Ethernet Cable,Electronics,399,180,Mumbai,NetWave
+1025,Laptop Stand,Electronics,1599,55,Chennai,TechNova
+1026,Smart Watch,Electronics,5999,27,Delhi,WearTech
+1027,Fitness Band,Electronics,2999,44,Delhi,WearTech
+1028,Air Purifier,Home,8999,16,Bangalore,FreshAir
+1029,Vacuum Cleaner,Home,7499,14,Chennai,FreshAir
+1030,Table Fan,Home,1899,52,Kochi,BrightLite
+1031,Extension Board,Electronics,699,145,Mumbai,ChargeMax
+1032,Paper Shredder,Office,4999,11,Delhi,OfficeHub
+1033,Barcode Scanner,Office,6499,9,Bangalore,ScanSys
+1034,Label Printer,Office,5999,13,Chennai,ScanSys
+1035,Storage Box,Home,799,90,Kochi,HomeCraft
+1036,LED Bulb Pack,Home,599,240,Kochi,BrightLite
+1037,Cable Organizer,Electronics,299,210,Mumbai,TechNova
+1038,Portable SSD,Electronics,7499,19,Delhi,DataStore
+1039,Graphics Tablet,Electronics,8499,15,Bangalore,CreateX
+1040,Document Scanner,Office,9999,7,Chennai,ScanSys
+1041,Book Shelf,Furniture,7999,10,Bangalore,FurniPro
+1042,Drawer Unit,Furniture,6499,12,Bangalore,FurniPro
+1043,Floor Lamp,Home,2999,28,Kochi,BrightLite
+1044,Wireless Charger,Electronics,1999,62,Mumbai,ChargeMax
+1045,HDMI Cable,Electronics,599,170,Delhi,NetWave
+1046,Laptop Sleeve,Electronics,899,88,Chennai,TechNova
+1047,Sticky Notes,Stationery,149,450,Kochi,PaperNest
+1048,Calculator,Stationery,699,160,Delhi,PaperNest
+1049,Conference Speaker,Office,12999,6,Bangalore,SoundSphere
+1050,Reception Desk,Furniture,24999,3,Bangalore,FurniPro
