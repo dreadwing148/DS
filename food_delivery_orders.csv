@@ -1,0 +1,51 @@
+OrderID,Restaurant,Cuisine,OrderValue,DeliveryTime,DistanceKM,PaymentMethod,City
+5001,Spice Garden,Indian,450,28,4,Cash,Kochi
+5002,Burger Hub,Fast Food,320,18,2,UPI,Kochi
+5003,Sushi World,Japanese,890,42,8,Card,Bangalore
+5004,Pizza Planet,Italian,650,35,5,UPI,Chennai
+5005,Spice Garden,Indian,520,30,6,Cash,Delhi
+5006,Taco Fiesta,Mexican,410,25,3,UPI,Mumbai
+5007,Burger Hub,Fast Food,280,16,2,Cash,Kochi
+5008,Dragon Bowl,Chinese,560,32,4,Card,Chennai
+5009,Pizza Planet,Italian,720,38,7,UPI,Bangalore
+5010,Spice Garden,Indian,390,24,3,Cash,Kochi
+5011,Dragon Bowl,Chinese,610,34,5,Card,Mumbai
+5012,Taco Fiesta,Mexican,450,27,4,UPI,Delhi
+5013,Burger Hub,Fast Food,350,19,2,Cash,Chennai
+5014,Sushi World,Japanese,950,45,9,Card,Bangalore
+5015,Pizza Planet,Italian,680,36,6,UPI,Kochi
+5016,Spice Garden,Indian,480,29,5,Cash,Delhi
+5017,Dragon Bowl,Chinese,530,31,4,UPI,Mumbai
+5018,Taco Fiesta,Mexican,470,26,3,Card,Chennai
+5019,Burger Hub,Fast Food,290,17,2,Cash,Kochi
+5020,Sushi World,Japanese,1020,48,10,Card,Bangalore
+5021,Pizza Planet,Italian,610,33,5,UPI,Mumbai
+5022,Spice Garden,Indian,430,27,4,Cash,Kochi
+5023,Dragon Bowl,Chinese,590,35,6,Card,Delhi
+5024,Taco Fiesta,Mexican,420,24,3,UPI,Chennai
+5025,Burger Hub,Fast Food,340,18,2,Cash,Mumbai
+5026,Sushi World,Japanese,970,46,8,Card,Bangalore
+5027,Pizza Planet,Italian,700,37,7,UPI,Delhi
+5028,Spice Garden,Indian,510,30,5,Cash,Kochi
+5029,Dragon Bowl,Chinese,620,36,6,Card,Mumbai
+5030,Taco Fiesta,Mexican,460,28,4,UPI,Chennai
+5031,Burger Hub,Fast Food,300,17,2,Cash,Kochi
+5032,Sushi World,Japanese,930,44,8,Card,Bangalore
+5033,Pizza Planet,Italian,670,35,5,UPI,Delhi
+5034,Spice Garden,Indian,490,29,4,Cash,Mumbai
+5035,Dragon Bowl,Chinese,550,32,5,Card,Chennai
+5036,Taco Fiesta,Mexican,440,25,3,UPI,Kochi
+5037,Burger Hub,Fast Food,360,20,2,Cash,Delhi
+5038,Sushi World,Japanese,980,47,9,Card,Bangalore
+5039,Pizza Planet,Italian,690,36,6,UPI,Mumbai
+5040,Spice Garden,Indian,470,28,4,Cash,Kochi
+5041,Dragon Bowl,Chinese,600,34,5,Card,Delhi
+5042,Taco Fiesta,Mexican,430,24,3,UPI,Chennai
+5043,Burger Hub,Fast Food,310,18,2,Cash,Kochi
+5044,Sushi World,Japanese,990,47,9,Card,Bangalore
+5045,Pizza Planet,Italian,710,38,7,UPI,Mumbai
+5046,Spice Garden,Indian,500,30,5,Cash,Delhi
+5047,Dragon Bowl,Chinese,580,33,5,Card,Kochi
+5048,Taco Fiesta,Mexican,450,26,4,UPI,Chennai
+5049,Burger Hub,Fast Food,330,19,2,Cash,Mumbai
+5050,Sushi World,Japanese,1010,48,10,Card,Bangalore
