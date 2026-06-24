@@ -1,0 +1,32 @@
+CourseID,CourseName,Category,Price,Enrollments,Rating,Instructor,Platform
+9001,Python Basics,Programming,2999,450,4.5,Arun,SkillHub
+9002,Web Development,Programming,3999,380,4.4,Neha,LearnPro
+9003,Digital Marketing,Marketing,2499,520,4.3,Rahul,SkillHub
+9004,Graphic Design,Design,3499,290,4.6,Priya,EduMax
+9005,Excel Mastery,Business,1999,610,4.7,Kiran,LearnPro
+9006,Machine Learning,Programming,4999,210,4.8,Arun,SkillHub
+9007,UI UX Design,Design,3799,270,4.5,Priya,EduMax
+9008,SEO Fundamentals,Marketing,2299,430,4.2,Rahul,LearnPro
+9009,Power BI,Business,3299,340,4.6,Kiran,SkillHub
+9010,Data Analytics,Programming,4499,260,4.7,Arun,EduMax
+9011,Python Basics,Programming,2999,470,4.5,Arun,SkillHub
+9012,Web Development,Programming,3999,390,4.4,Neha,LearnPro
+9013,Digital Marketing,Marketing,2499,540,4.3,Rahul,SkillHub
+9014,Graphic Design,Design,3499,310,4.6,Priya,EduMax
+9015,Excel Mastery,Business,1999,630,4.7,Kiran,LearnPro
+9016,Machine Learning,Programming,4999,220,4.8,Arun,SkillHub
+9017,UI UX Design,Design,3799,280,4.5,Priya,EduMax
+9018,SEO Fundamentals,Marketing,2299,450,4.2,Rahul,LearnPro
+9019,Power BI,Business,3299,360,4.6,Kiran,SkillHub
+9020,Data Analytics,Programming,4499,270,4.7,Arun,EduMax
+9021,Python Basics,Programming,2999,480,4.5,Arun,SkillHub
+9022,Web Development,Programming,3999,400,4.4,Neha,LearnPro
+9023,Digital Marketing,Marketing,2499,550,4.3,Rahul,SkillHub
+9024,Graphic Design,Design,3499,320,4.6,Priya,EduMax
+9025,Excel Mastery,Business,1999,650,4.7,Kiran,LearnPro
+9026,Machine Learning,Programming,4999,230,4.8,Arun,SkillHub
+9027,UI UX Design,Design,3799,290,4.5,Priya,EduMax
+9028,SEO Fundamentals,Marketing,2299,460,4.2,Rahul,LearnPro
+9029,Power BI,Business,3299,370,4.6,Kiran,SkillHub
+9030,Data Analytics,Programming,4499,280,4.7,Arun,EduMax
+9040,Machine Learning,Programming,4999,240,4.8,Arun,SkillHub
