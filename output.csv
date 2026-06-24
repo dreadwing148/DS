@@ -1,0 +1,21 @@
+Username,Full_Name,Followers,Following,Posts,Category,Avg_Likes,Engagement_Rate,Country,Account_Created
+travel_with_arun,Arun Kumar,12500.0,950,320.0,Travel,1500.0,3.5%,India,2020-01-15
+foodie_neha,Neha Sharma,8500.0,1200,180.0,Food,900.0,4.2%,India,2019-03-22
+rahul_clicks,Rahul Verma,15000.0,780,250.0,Photography,1200.0,2.8%,India,2021-07-10
+fitness_anu,Anu Joseph,22000.0,500,410.0,Fitness,2500.0,5.1%,India,2018-06-05
+tech_guru,Rohit Nair,45000.0,300,150.0,Technology,4000.0,6.5%,India,2017-11-01
+daily_quotes,Quote Factory,,100,600.0,Motivation,700.0,2.0%,India,2016-08-19
+fashion_vibes,Priya Menon,18000.0,,290.0,Fashion,1800.0,4.8%,India,2020-09-25
+gaming_world,Game Hub,35000.0,150,520.0,Gaming,3200.0,5.5%,India,2019-12-11
+music_mani,Manikandan P,12000.0,400,,Music,,,India,2022-02-14
+foodie_neha,Neha Sharma,8500.0,1200,180.0,Food,900.0,4.2%,India,2019-03-22
+Travel_With_Arun,Arun Kumar,12500.0,950,320.0,travel,1500.0,3.5%,india,2020-01-15
+,Unknown,5000.0,800,90.0,,500.0,2.5%,,
+fitness_anu_,Anu Joseph,22000.0,500,410.0,Fitness,2500.0,5.1%,India,2018-06-05
+techguru,Rohit Nair,47000.0,320,155.0,Tech,4100.0,6.4%,India,2017-11-01
+fashion_vibes,Priya Menon,18000.0,,290.0,Fashion,1800.0,4.8%,INDIA,2020-09-25
+gaming_world,Game Hub,35000.0,150,520.0,gaming,3200.0,5.5%,India,2019-12-11
+music_mani,Manikandan P,-100.0,450,220.0,Music,1100.0,3.1%,India,2022-02-14
+wanderlust_sara,Sara Ali,92000.0,700,890.0,Travel,8500.0,7.2%,UAE,2018-04-20
+photo_king,King Photography,5000000.0,1200,10000.0,Photography,250000.0,10.5%,India,2015-01-01
+food_master,,6500.0,,-5.0,Food,-50.0,abc,India,invalid_date
