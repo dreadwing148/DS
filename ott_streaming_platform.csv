@@ -1,0 +1,61 @@
+UserID,Age,SubscriptionPlan,WatchHours,FavoriteGenre,MoviesWatched,SeriesWatched,DeviceType,Country,RenewedSubscription
+U001,22,Basic,28,Action,12,4,Mobile,India,Yes
+U002,35,Premium,65,Drama,18,12,Smart TV,India,Yes
+U003,29,Standard,42,Comedy,15,8,Laptop,India,Yes
+U004,41,Premium,78,Thriller,22,15,Smart TV,USA,Yes
+U005,19,Basic,18,Anime,8,3,Mobile,India,No
+U006,31,Standard,55,Sci-Fi,17,10,Laptop,India,Yes
+U007,27,Basic,25,Comedy,11,5,Tablet,India,No
+U008,45,Premium,82,Drama,24,16,Smart TV,UK,Yes
+U009,38,Standard,48,Action,16,9,Laptop,Canada,Yes
+U010,24,Basic,22,Romance,10,4,Mobile,India,No
+U011,33,Premium,71,Thriller,20,13,Smart TV,India,Yes
+U012,28,Standard,44,Sci-Fi,14,8,Laptop,India,Yes
+U013,21,Basic,20,Anime,9,3,Mobile,India,No
+U014,47,Premium,88,Drama,26,18,Smart TV,USA,Yes
+U015,36,Standard,50,Action,17,9,Tablet,India,Yes
+U016,23,Basic,24,Comedy,10,4,Mobile,India,No
+U017,39,Premium,74,Thriller,21,14,Smart TV,UK,Yes
+U018,30,Standard,46,Sci-Fi,15,8,Laptop,India,Yes
+U019,26,Basic,21,Romance,9,4,Tablet,India,No
+U020,42,Premium,80,Drama,23,17,Smart TV,Canada,Yes
+U021,34,Standard,52,Action,18,10,Laptop,India,Yes
+U022,20,Basic,19,Anime,8,3,Mobile,India,No
+U023,37,Premium,68,Thriller,19,12,Smart TV,USA,Yes
+U024,29,Standard,43,Sci-Fi,14,7,Laptop,India,Yes
+U025,25,Basic,23,Comedy,10,4,Mobile,India,No
+U026,44,Premium,84,Drama,25,17,Smart TV,UK,Yes
+U027,32,Standard,49,Action,17,9,Tablet,India,Yes
+U028,22,Basic,20,Anime,8,3,Mobile,India,No
+U029,40,Premium,76,Thriller,22,15,Smart TV,USA,Yes
+U030,31,Standard,47,Sci-Fi,15,8,Laptop,India,Yes
+U031,27,Basic,22,Comedy,10,4,Tablet,India,No
+U032,46,Premium,86,Drama,26,18,Smart TV,Canada,Yes
+U033,35,Standard,53,Action,18,10,Laptop,India,Yes
+U034,23,Basic,21,Romance,9,4,Mobile,India,No
+U035,38,Premium,72,Thriller,20,13,Smart TV,UK,Yes
+U036,28,Standard,45,Sci-Fi,14,8,Laptop,India,Yes
+U037,21,Basic,19,Anime,8,3,Mobile,India,No
+U038,43,Premium,83,Drama,24,17,Smart TV,USA,Yes
+U039,33,Standard,51,Action,17,9,Tablet,India,Yes
+U040,24,Basic,22,Comedy,10,4,Mobile,India,No
+U041,39,Premium,75,Thriller,21,14,Smart TV,Canada,Yes
+U042,30,Standard,48,Sci-Fi,15,8,Laptop,India,Yes
+U043,26,Basic,23,Romance,10,4,Tablet,India,No
+U044,45,Premium,87,Drama,26,18,Smart TV,UK,Yes
+U045,34,Standard,52,Action,18,10,Laptop,India,Yes
+U046,22,Basic,20,Anime,8,3,Mobile,India,No
+U047,41,Premium,79,Thriller,23,16,Smart TV,USA,Yes
+U048,29,Standard,44,Sci-Fi,14,8,Laptop,India,Yes
+U049,25,Basic,24,Comedy,11,5,Mobile,India,No
+U050,47,Premium,90,Drama,27,19,Smart TV,Canada,Yes
+U051,36,Standard,54,Action,19,10,Tablet,India,Yes
+U052,21,Basic,18,Anime,7,2,Mobile,India,No
+U053,40,Premium,77,Thriller,22,15,Smart TV,UK,Yes
+U054,31,Standard,49,Sci-Fi,16,8,Laptop,India,Yes
+U055,27,Basic,22,Romance,9,4,Tablet,India,No
+U056,44,Premium,85,Drama,25,18,Smart TV,USA,Yes
+U057,35,Standard,53,Action,18,10,Laptop,India,Yes
+U058,23,Basic,20,Comedy,9,4,Mobile,India,No
+U059,42,Premium,81,Thriller,24,16,Smart TV,Canada,Yes
+U060,30,Standard,50,Sci-Fi,16,9,Laptop,India,Yes
