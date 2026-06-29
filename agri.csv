@@ -1,0 +1,11 @@
+Farm_ID,Crop,Area_Hectares,Rainfall_mm,Yield_Tonnes
+F001,Wheat,12.5,450,38.2
+F002,Rice,8.0,980,42.5
+F003,Maize,15.2,620,51.8
+F004,Cotton,10.4,520,24.7
+F005,Soybean,7.8,680,19.3
+F006,Sugarcane,20.5,1100,145.6
+F007,Barley,9.6,410,27.4
+F008,Potato,6.3,560,34.1
+F009,Tomato,4.7,730,29.8
+F010,Groundnut,11.1,590,21.5
