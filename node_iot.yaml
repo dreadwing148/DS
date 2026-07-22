@@ -1,0 +1,75 @@
+IoTDataset:
+  - DeviceID: DEV001
+    Location: Warehouse A
+    SensorType: TemperatureHumidity
+    Temperature:
+      value: 24.5
+      unit: C
+    Humidity:
+      value: 58
+      unit: "%"
+    Battery:
+      value: 92
+      unit: "%"
+    Status: Active
+    Timestamp: "2026-07-22T10:15:30Z"
+
+  - DeviceID: DEV002
+    Location: Warehouse B
+    SensorType: TemperatureHumidity
+    Temperature:
+      value: 28.1
+      unit: C
+    Humidity:
+      value: 65
+      unit: "%"
+    Battery:
+      value: 80
+      unit: "%"
+    Status: Active
+    Timestamp: "2026-07-22T10:16:15Z"
+
+  - DeviceID: DEV003
+    Location: Cold Storage
+    SensorType: TemperatureHumidity
+    Temperature:
+      value: 4.8
+      unit: C
+    Humidity:
+      value: 82
+      unit: "%"
+    Battery:
+      value: 67
+      unit: "%"
+    Status: Warning
+    Timestamp: "2026-07-22T10:17:05Z"
+
+  - DeviceID: DEV004
+    Location: Server Room
+    SensorType: TemperatureHumidity
+    Temperature:
+      value: 21.3
+      unit: C
+    Humidity:
+      value: 45
+      unit: "%"
+    Battery:
+      value: 55
+      unit: "%"
+    Status: Active
+    Timestamp: "2026-07-22T10:18:40Z"
+
+  - DeviceID: DEV005
+    Location: Factory Floor
+    SensorType: TemperatureHumidity
+    Temperature:
+      value: 35.7
+      unit: C
+    Humidity:
+      value: 70
+      unit: "%"
+    Battery:
+      value: 30
+      unit: "%"
+    Status: Critical
+    Timestamp: "2026-07-22T10:20:10Z"
