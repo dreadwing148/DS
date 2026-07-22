@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IoTDataset>
+    <Device>
+        <DeviceID>DEV001</DeviceID>
+        <Location>Warehouse A</Location>
+        <SensorType>TemperatureHumidity</SensorType>
+        <Temperature unit="C">24.5</Temperature>
+        <Humidity unit="%">58</Humidity>
+        <Battery unit="%">92</Battery>
+        <Status>Active</Status>
+        <Timestamp>2026-07-22T10:15:30Z</Timestamp>
+    </Device>
+
+    <Device>
+        <DeviceID>DEV002</DeviceID>
+        <Location>Warehouse B</Location>
+        <SensorType>TemperatureHumidity</SensorType>
+        <Temperature unit="C">28.1</Temperature>
+        <Humidity unit="%">65</Humidity>
+        <Battery unit="%">80</Battery>
+        <Status>Active</Status>
+        <Timestamp>2026-07-22T10:16:15Z</Timestamp>
+    </Device>
+
+    <Device>
+        <DeviceID>DEV003</DeviceID>
+        <Location>Cold Storage</Location>
+        <SensorType>TemperatureHumidity</SensorType>
+        <Temperature unit="C">4.8</Temperature>
+        <Humidity unit="%">82</Humidity>
+        <Battery unit="%">67</Battery>
+        <Status>Warning</Status>
+        <Timestamp>2026-07-22T10:17:05Z</Timestamp>
+    </Device>
+
+    <Device>
+        <DeviceID>DEV004</DeviceID>
+        <Location>Server Room</Location>
+        <SensorType>TemperatureHumidity</SensorType>
+        <Temperature unit="C">21.3</Temperature>
+        <Humidity unit="%">45</Humidity>
+        <Battery unit="%">55</Battery>
+        <Status>Active</Status>
+        <Timestamp>2026-07-22T10:18:40Z</Timestamp>
+    </Device>
+
+    <Device>
+        <DeviceID>DEV005</DeviceID>
+        <Location>Factory Floor</Location>
+        <SensorType>TemperatureHumidity</SensorType>
+        <Temperature unit="C">35.7</Temperature>
+        <Humidity unit="%">70</Humidity>
+        <Battery unit="%">30</Battery>
+        <Status>Critical</Status>
+        <Timestamp>2026-07-22T10:20:10Z</Timestamp>
+    </Device>
+</IoTDataset>
