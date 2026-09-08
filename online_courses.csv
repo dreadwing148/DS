@@ -1,32 +1,312 @@
-CourseID,CourseName,Category,Price,Enrollments,Rating,Instructor,Platform
-9001,Python Basics,Programming,2999,450,4.5,Arun,SkillHub
-9002,Web Development,Programming,3999,380,4.4,Neha,LearnPro
-9003,Digital Marketing,Marketing,2499,520,4.3,Rahul,SkillHub
-9004,Graphic Design,Design,3499,290,4.6,Priya,EduMax
-9005,Excel Mastery,Business,1999,610,4.7,Kiran,LearnPro
-9006,Machine Learning,Programming,4999,210,4.8,Arun,SkillHub
-9007,UI UX Design,Design,3799,270,4.5,Priya,EduMax
-9008,SEO Fundamentals,Marketing,2299,430,4.2,Rahul,LearnPro
-9009,Power BI,Business,3299,340,4.6,Kiran,SkillHub
-9010,Data Analytics,Programming,4499,260,4.7,Arun,EduMax
-9011,Python Basics,Programming,2999,470,4.5,Arun,SkillHub
-9012,Web Development,Programming,3999,390,4.4,Neha,LearnPro
-9013,Digital Marketing,Marketing,2499,540,4.3,Rahul,SkillHub
-9014,Graphic Design,Design,3499,310,4.6,Priya,EduMax
-9015,Excel Mastery,Business,1999,630,4.7,Kiran,LearnPro
-9016,Machine Learning,Programming,4999,220,4.8,Arun,SkillHub
-9017,UI UX Design,Design,3799,280,4.5,Priya,EduMax
-9018,SEO Fundamentals,Marketing,2299,450,4.2,Rahul,LearnPro
-9019,Power BI,Business,3299,360,4.6,Kiran,SkillHub
-9020,Data Analytics,Programming,4499,270,4.7,Arun,EduMax
-9021,Python Basics,Programming,2999,480,4.5,Arun,SkillHub
-9022,Web Development,Programming,3999,400,4.4,Neha,LearnPro
-9023,Digital Marketing,Marketing,2499,550,4.3,Rahul,SkillHub
-9024,Graphic Design,Design,3499,320,4.6,Priya,EduMax
-9025,Excel Mastery,Business,1999,650,4.7,Kiran,LearnPro
-9026,Machine Learning,Programming,4999,230,4.8,Arun,SkillHub
-9027,UI UX Design,Design,3799,290,4.5,Priya,EduMax
-9028,SEO Fundamentals,Marketing,2299,460,4.2,Rahul,LearnPro
-9029,Power BI,Business,3299,370,4.6,Kiran,SkillHub
-9030,Data Analytics,Programming,4499,280,4.7,Arun,EduMax
-9040,Machine Learning,Programming,4999,240,4.8,Arun,SkillHub
+[
+  {
+    "CourseID": 9001,
+    "CourseName": "Python Basics",
+    "Category": "Programming",
+    "Price": 2999,
+    "Enrollments": 450,
+    "Rating": 4.5,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9002,
+    "CourseName": "Web Development",
+    "Category": "Programming",
+    "Price": 3999,
+    "Enrollments": 380,
+    "Rating": 4.4,
+    "Instructor": "Neha",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9003,
+    "CourseName": "Digital Marketing",
+    "Category": "Marketing",
+    "Price": 2499,
+    "Enrollments": 520,
+    "Rating": 4.3,
+    "Instructor": "Rahul",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9004,
+    "CourseName": "Graphic Design",
+    "Category": "Design",
+    "Price": 3499,
+    "Enrollments": 290,
+    "Rating": 4.6,
+    "Instructor": "Priya",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9005,
+    "CourseName": "Excel Mastery",
+    "Category": "Business",
+    "Price": 1999,
+    "Enrollments": 610,
+    "Rating": 4.7,
+    "Instructor": "Kiran",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9006,
+    "CourseName": "Machine Learning",
+    "Category": "Programming",
+    "Price": 4999,
+    "Enrollments": 210,
+    "Rating": 4.8,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9007,
+    "CourseName": "UI UX Design",
+    "Category": "Design",
+    "Price": 3799,
+    "Enrollments": 270,
+    "Rating": 4.5,
+    "Instructor": "Priya",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9008,
+    "CourseName": "SEO Fundamentals",
+    "Category": "Marketing",
+    "Price": 2299,
+    "Enrollments": 430,
+    "Rating": 4.2,
+    "Instructor": "Rahul",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9009,
+    "CourseName": "Power BI",
+    "Category": "Business",
+    "Price": 3299,
+    "Enrollments": 340,
+    "Rating": 4.6,
+    "Instructor": "Kiran",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9010,
+    "CourseName": "Data Analytics",
+    "Category": "Programming",
+    "Price": 4499,
+    "Enrollments": 260,
+    "Rating": 4.7,
+    "Instructor": "Arun",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9011,
+    "CourseName": "Python Basics",
+    "Category": "Programming",
+    "Price": 2999,
+    "Enrollments": 470,
+    "Rating": 4.5,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9012,
+    "CourseName": "Web Development",
+    "Category": "Programming",
+    "Price": 3999,
+    "Enrollments": 390,
+    "Rating": 4.4,
+    "Instructor": "Neha",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9013,
+    "CourseName": "Digital Marketing",
+    "Category": "Marketing",
+    "Price": 2499,
+    "Enrollments": 540,
+    "Rating": 4.3,
+    "Instructor": "Rahul",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9014,
+    "CourseName": "Graphic Design",
+    "Category": "Design",
+    "Price": 3499,
+    "Enrollments": 310,
+    "Rating": 4.6,
+    "Instructor": "Priya",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9015,
+    "CourseName": "Excel Mastery",
+    "Category": "Business",
+    "Price": 1999,
+    "Enrollments": 630,
+    "Rating": 4.7,
+    "Instructor": "Kiran",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9016,
+    "CourseName": "Machine Learning",
+    "Category": "Programming",
+    "Price": 4999,
+    "Enrollments": 220,
+    "Rating": 4.8,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9017,
+    "CourseName": "UI UX Design",
+    "Category": "Design",
+    "Price": 3799,
+    "Enrollments": 280,
+    "Rating": 4.5,
+    "Instructor": "Priya",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9018,
+    "CourseName": "SEO Fundamentals",
+    "Category": "Marketing",
+    "Price": 2299,
+    "Enrollments": 450,
+    "Rating": 4.2,
+    "Instructor": "Rahul",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9019,
+    "CourseName": "Power BI",
+    "Category": "Business",
+    "Price": 3299,
+    "Enrollments": 360,
+    "Rating": 4.6,
+    "Instructor": "Kiran",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9020,
+    "CourseName": "Data Analytics",
+    "Category": "Programming",
+    "Price": 4499,
+    "Enrollments": 270,
+    "Rating": 4.7,
+    "Instructor": "Arun",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9021,
+    "CourseName": "Python Basics",
+    "Category": "Programming",
+    "Price": 2999,
+    "Enrollments": 480,
+    "Rating": 4.5,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9022,
+    "CourseName": "Web Development",
+    "Category": "Programming",
+    "Price": 3999,
+    "Enrollments": 400,
+    "Rating": 4.4,
+    "Instructor": "Neha",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9023,
+    "CourseName": "Digital Marketing",
+    "Category": "Marketing",
+    "Price": 2499,
+    "Enrollments": 550,
+    "Rating": 4.3,
+    "Instructor": "Rahul",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9024,
+    "CourseName": "Graphic Design",
+    "Category": "Design",
+    "Price": 3499,
+    "Enrollments": 320,
+    "Rating": 4.6,
+    "Instructor": "Priya",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9025,
+    "CourseName": "Excel Mastery",
+    "Category": "Business",
+    "Price": 1999,
+    "Enrollments": 650,
+    "Rating": 4.7,
+    "Instructor": "Kiran",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9026,
+    "CourseName": "Machine Learning",
+    "Category": "Programming",
+    "Price": 4999,
+    "Enrollments": 230,
+    "Rating": 4.8,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9027,
+    "CourseName": "UI UX Design",
+    "Category": "Design",
+    "Price": 3799,
+    "Enrollments": 290,
+    "Rating": 4.5,
+    "Instructor": "Priya",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9028,
+    "CourseName": "SEO Fundamentals",
+    "Category": "Marketing",
+    "Price": 2299,
+    "Enrollments": 460,
+    "Rating": 4.2,
+    "Instructor": "Rahul",
+    "Platform": "LearnPro"
+  },
+  {
+    "CourseID": 9029,
+    "CourseName": "Power BI",
+    "Category": "Business",
+    "Price": 3299,
+    "Enrollments": 370,
+    "Rating": 4.6,
+    "Instructor": "Kiran",
+    "Platform": "SkillHub"
+  },
+  {
+    "CourseID": 9030,
+    "CourseName": "Data Analytics",
+    "Category": "Programming",
+    "Price": 4499,
+    "Enrollments": 280,
+    "Rating": 4.7,
+    "Instructor": "Arun",
+    "Platform": "EduMax"
+  },
+  {
+    "CourseID": 9040,
+    "CourseName": "Machine Learning",
+    "Category": "Programming",
+    "Price": 4999,
+    "Enrollments": 240,
+    "Rating": 4.8,
+    "Instructor": "Arun",
+    "Platform": "SkillHub"
+  }
+]
